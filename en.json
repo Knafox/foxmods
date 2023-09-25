@@ -1,0 +1,21 @@
+{
+	///Todo fix
+	"foxmods": {
+		"settings": {
+			"tabs": {
+				"no-cards": {
+					"name": "Hide Cards tab?",
+					"hint": "Removes the Cards tab in the sidebar entirely"
+				},
+				"no-music": {
+					"name": "Hide Music tab?",
+					"hint": "Removes the Music tab in the sidebar entirely"
+				},
+				"no-tables": {
+					"name": "Hide Rollable Tables tab?",
+					"hint": "Removes the Rollable Tables tab in the sidebar entirely"
+				}
+			}
+		}
+	}
+}

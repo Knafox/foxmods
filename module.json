@@ -1,0 +1,32 @@
+{
+	"id": "foxmods",
+	"title": "GM Fox - Mods",
+	"description": "A homebrew module for GM Fox Campaigns",
+	"url": "https://github.com/Knafox/foxmods",
+	"authors": [
+		{
+			"name": "Knafox",
+			"email": "knafox@gmail.com",
+			"url": "https://github.com/Knafox/foxmods",
+			"flags": {}
+		}
+	],
+	"version": "0.1.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11.309"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "pf2e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "5.4.0",
+					"verified": "5.5.4"
+				}
+			}
+		]
+	},
+	"esmodules": ["modules/settings.js"]
+}
